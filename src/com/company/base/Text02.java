@@ -7,7 +7,8 @@ public class Text02 {
         System.out.println(ob.a);
         ob.aa();
         ob.aaa();
-
+        ob.aa();
+        ob.aaa();
     }
 
     int a =10;
